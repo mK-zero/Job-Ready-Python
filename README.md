@@ -11,8 +11,10 @@ Starting from : June 2, 2022
 
 - <b>Lesson 12</b> - [Address Prompt](https://github.com/mK-zero/Job-Ready-Python/tree/main/2_lesson-12_address-prompt)
 
+- <b>Lesson 16</b> - [Burger Shop](https://github.com/mK-zero/Job-Ready-Python/tree/main/3_lesson-16_burger-shop)
+
 <p align="center">
-Last Updated : June 2, 2022
+Last Updated : June 3, 2022
 </p>
 
 <p align="center">
