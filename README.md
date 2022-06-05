@@ -13,8 +13,10 @@ Starting from : June 2, 2022
 
 - <b>Lesson 16</b> - [Burger Shop](https://github.com/mK-zero/Job-Ready-Python/tree/main/3_lesson-16_burger-shop)
 
+- <b>Lesson 23</b> - [Word Analysis](https://github.com/mK-zero/Job-Ready-Python/tree/main/4_lesson-23_word-analysis)
+
 <p align="center">
-Last Updated : June 3, 2022
+Last Updated : June 4, 2022
 </p>
 
 <p align="center">
